@@ -5,5 +5,6 @@ This POC uploads files from a "file" folder and get download into a "download" f
 ## Requirement
 * Get a azure account
 * Create a storage account and a container
+* Package Azure.Storage.Blobs
 
 
