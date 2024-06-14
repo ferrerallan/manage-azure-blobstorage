@@ -32,11 +32,6 @@ This repository provides an example of how to manage Azure Blob Storage using a 
    node app.js
    ```
 
-## Implementation Details
-
-- **app.js**: Contains the main application code for managing blobs.
-- **package.json**: Configuration file for the Node.js project, including dependencies.
-- **config/**: Contains configuration files for environment variables.
 
 ### Example of Use
 
